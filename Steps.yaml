@@ -1,0 +1,11 @@
+Geo-Location support in Browser
+Accuracy - High
+No Cashing  [...continious data flow]
+Timeout  [...location keeps on updating continiously]
+Position - Continiously Visible
+Map Coordinates - Set(0,0)
+Openstreetmap - Module
+Zoom - High
+Marker - Empty Object
+If Marker for Id exist, update its position else create a new Marker
+Remove Marker if user gets Disconnected
